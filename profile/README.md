@@ -35,18 +35,3 @@ Official GitHub organization of Cytroksys Infotech, focused on scalable products
 
 ## Activity Dashboard
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cytroksys&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight&border_radius=12" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=cytroksys&theme=tokyonight&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cytroksys&bg_color=111827&color=22d3ee&line=10b981&point=f59e0b&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=110&text=Thanks%20for%20visiting%20Cytroksys&fontAlign=50&fontAlignY=50&fontSize=26&fontColor=ffffff&animation=fadeIn&color=0:8b5cf6,25:ef4444,50:f59e0b,75:10b981,100:06b6d4" alt="Footer" />
-</p>
