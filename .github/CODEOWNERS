@@ -1,0 +1,9 @@
+# Default owners for all files
+*                                   @cytroksys/administrator
+
+# GitHub configuration and security-sensitive paths
+/.github/                           @cytroksys/administrator @cytroksys/devops
+/SECURITY.md                        @cytroksys/administrator
+/CONTRIBUTING.md                    @cytroksys/administrator
+/CODE_OF_CONDUCT.md                 @cytroksys/administrator
+/docs/                              @cytroksys/administrator @cytroksys/devops
