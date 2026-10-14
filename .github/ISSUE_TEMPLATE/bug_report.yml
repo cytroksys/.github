@@ -1,0 +1,40 @@
+name: Bug report
+description: Report a defect or unexpected behavior.
+title: "bug: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug. If this is a security issue, please use the private vulnerability reporting flow instead.
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Step-by-step reproduction instructions.
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, versions, deployment context.
+  - type: checkboxes
+    id: security
+    attributes:
+      label: Security impact
+      options:
+        - label: This bug may have security implications (do not disclose details publicly).
